@@ -5,7 +5,7 @@ import BHeader from './components/BHeader.vue'
 
 <template>
   <header>
-    <BHeader />
+    <BHeader/>
   </header>
 
   <main>
